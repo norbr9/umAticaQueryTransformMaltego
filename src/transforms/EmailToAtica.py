@@ -249,4 +249,3 @@ class EmailToAtica(DiscoverableTransform):
         return [field_name, field_value]
 
 
-#print(EmailToAtica.query("skarmeta@um.es"))
